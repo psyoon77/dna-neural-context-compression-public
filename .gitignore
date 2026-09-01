@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local datasets and generated experiment outputs
+DNACorpus/
+DNAcorpus.zip
+*.bin
+*.dat
+*.pth
+*.pt
+*.ckpt
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*~

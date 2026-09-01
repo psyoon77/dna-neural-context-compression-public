@@ -1,0 +1,15 @@
+{
+  "components": [
+    {
+      "name": "Project Nayuki Reference arithmetic coding",
+      "path": "third_party/reference-arithmetic-coding",
+      "repository": "https://github.com/nayuki/Reference-arithmetic-coding",
+      "commit": "fde1357935494f395b4d17ca7e9e897c226ad208",
+      "git_tree": "dc90eb0929f2e9349462acdb177c327c63de08e1",
+      "file_count": 44,
+      "license": "MIT",
+      "copyright": "Project Nayuki",
+      "local_modifications": false
+    }
+  ]
+}
